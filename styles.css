@@ -35,7 +35,7 @@ body {
     height: 40px;
     display: flex;
     justify-content: center;
-    background-color: #2a2a2a;
+    background-color: #0412d5;
   }
   
   nav button:hover {
@@ -43,8 +43,8 @@ body {
   }
   
   nav button.ativo {
-    color: #4caf50;
-    border-bottom: 2px solid #4caf50;
+    color: #00ff18;
+    border-bottom: 2px solid #00ff18;
   }
   
   main {
@@ -54,7 +54,7 @@ body {
   
   footer {
     position: fixed;
-    background-color: #2a2a2a;
+    background-color: #0412d5;
     height: 40px;
     display: flex;
     justify-content: center;
@@ -157,7 +157,7 @@ body {
     text-align: center;
     padding: 30px;
     color: #333;
-    background-color: rgba(0, 119, 181, 0.1);
+    background-color: #64bdf580;
     border-radius: 10px;
     margin-top: 10px;
     margin-bottom: 10px;
@@ -172,7 +172,7 @@ body {
     text-align: center;
     padding: 30px;
     color: #333;
-    background-color: #ff5a5a26;
+    background-color: #64bdf580;
     border-radius: 10px;
     margin-top: 10px;
     margin-bottom: 10px;
@@ -201,7 +201,7 @@ body {
     padding: 20px;
     text-align: center;
     color: #333;
-    background-color: #d5ff3b36;
+    background-color: #3b8fff;
     border-radius: 10px;
     margin-top: 10px;
     margin-bottom: 10px;
@@ -212,7 +212,7 @@ body {
   }
   
   .project {
-    background-color: #96d49bb6;
+    background-color: #90d8d2;
     border-radius: 10px;
     padding: 20px;
     margin-bottom: 20px;
